@@ -1,0 +1,47 @@
+# baseURL = "http://lucasmarques73.com.br/"
+# localhost
+baseURL = "http://localhost/"
+languageCode = "pt-br"
+
+theme = "hugo-goa"
+
+author = "Lucas Marques"
+title = "Lucas Marques"
+
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+## Site Settings
+[params]
+author = "Lucas Marques"
+intro = "Desenvolvedor Web"
+description = ""
+authorimage = "me.jpg"
+dateformat = "Jan 2, 2006"
+
+## Social Accounts
+[params.social]
+github = "lucasmarques73"
+linkedin = "lucasmarques73"
+twitter = "lucas_marques"
+email = "lucasmarques73@hotmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Lucas Marques." 
+poweredby = true
+hightlightjs = true
+
+
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    weight = 200
+    url = "/about/"
