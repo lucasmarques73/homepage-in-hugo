@@ -23,6 +23,11 @@ description = ""
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
+## Site Meta Settings
+[params.meta]
+description = "Diario de um desenvolvedor web"
+keywords = "diario,blog,goa,hugo,developer,desenvolvedor,web"
+
 ## Social Accounts
 [params.social]
 github = "lucasmarques73"
