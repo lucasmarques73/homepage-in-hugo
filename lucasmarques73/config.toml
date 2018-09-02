@@ -8,7 +8,7 @@ theme = "hugo-goa"
 author = "Lucas Marques"
 title = "Lucas Marques"
 
-googleAnalytics = "XYZ"
+googleAnalytics = "UA-115778035-1"
 enableRobotsTXT = true
 
 contentdir = "content"
