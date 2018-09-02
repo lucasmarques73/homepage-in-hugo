@@ -14,7 +14,7 @@ RUN apk --no-cache add \
     && mv /tmp/hugo /usr/local/bin/ \
     && rm -rf /tmp/*
 
-WORKDIR /var/www/html/blog
+WORKDIR /var/www/html/lucasmarques73
 
 EXPOSE 1313
 

@@ -47,6 +47,10 @@ hightlightjs = true
     weight = 100
     url = "/blog/"
 [[menu.main]]
-    name = "about"
+    name = "Projetos"
     weight = 200
+    url = "/projects/"
+[[menu.main]]
+    name = "Sobre mim"
+    weight = 300
     url = "/about/"
