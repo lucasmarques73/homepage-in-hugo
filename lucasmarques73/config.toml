@@ -19,7 +19,7 @@ publishdir = "public"
 [params]
 author = "Lucas Marques"
 intro = "Desenvolvedor Web"
-description = ""
+description = "Diario de um desenvolvedor web"
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
