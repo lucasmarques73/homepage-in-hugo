@@ -2,7 +2,7 @@ FROM golang:1.10-alpine3.7
 
 LABEL maintainer 'Lucas Marques <lucasmarques73@hotmail.com>'
 
-ENV HUGO_VERSION=0.47
+ENV HUGO_VERSION=0.55.5
 
 RUN apk --no-cache add \
     curl \
