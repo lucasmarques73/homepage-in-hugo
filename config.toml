@@ -31,9 +31,9 @@ keywords = "blog,goa,hugo,developer,desenvolvedor,web,software,engineer,go,golan
 
 ## Social Accounts
 [params.social]
+twitter = "lucas_marques"
 github = "lucasmarques73"
 linkedin = "lucasmarques73"
-twitter = "lucas_marques"
 email = "lucasmarques73@hotmail.com"
 
 ## Extras
