@@ -18,15 +18,15 @@ publishdir = "public"
 ## Site Settings
 [params]
 author = "Lucas Marques"
-intro = "Desenvolvedor Web"
-description = "Diario de um desenvolvedor web"
+intro = "Software Engineer"
+description = "Software Engineer with a focus in Golang and PHP"
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Diario de um desenvolvedor web"
-keywords = "diario,blog,goa,hugo,developer,desenvolvedor,web"
+description = "Software Engineer with a focus in Golang and PHP"
+keywords = "blog,goa,hugo,developer,desenvolvedor,web,software,engineer,go,golang,php"
 
 ## Social Accounts
 [params.social]
@@ -43,9 +43,9 @@ hightlightjs = true
 
 
 [[menu.main]]
-    name = "blog"
+    name = "posts"
     weight = 100
-    url = "/blog/"
+    url = "/posts/"
 [[menu.main]]
     name = "Projetos"
     weight = 200
