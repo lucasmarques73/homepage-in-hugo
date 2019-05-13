@@ -1,5 +1,5 @@
-blog/public
-blog/entrypoint.sh
+lucasmarques73/public
+lucasmarques73/entrypoint.sh
 .DS_Store
 */**/.DS_Store
 *.sw*
