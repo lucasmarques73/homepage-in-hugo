@@ -15,17 +15,18 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
+
 ## Site Settings
 [params]
 author = "Lucas Marques"
-intro = "Software Engineer"
-description = "Software Engineer with a focus in Golang and PHP"
+intro = "Desenvolvedor Web"
+description = "Desenvolvedor Web com foco nas linguagens Go e PHP"
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Software Engineer with a focus in Golang and PHP"
+description = "Desenvolvedor Web com foco nas linguagens Go e PHP"
 keywords = "blog,goa,hugo,developer,desenvolvedor,web,software,engineer,go,golang,php"
 
 ## Social Accounts
