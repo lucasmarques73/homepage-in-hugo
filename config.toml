@@ -1,6 +1,6 @@
 # baseURL = "http://lucasmarques73.com.br/"
 # localhost
-baseURL = "http://localhost/"
+baseURL = "https://lucasmarques73.com.br/"
 languageCode = "pt-br"
 
 theme = "hugo-goa"

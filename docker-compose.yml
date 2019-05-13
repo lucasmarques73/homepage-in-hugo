@@ -4,9 +4,8 @@ services:
   hugo:
     build: docker/.
     volumes:
-      - ./lucasmarques73:/var/www/html/lucasmarques73
-      - .docker/entrypoint.sh:/var/www/html/lucasmarques73/entrypoint.sh
+      - .:/var/www/html/lucasmarques73
     ports:
       - 1313:1313
     restart: unless-stopped
-    entrypoint: /bin/sh /var/www/html/lucasmarques73/entrypoint.sh
+    entrypoint: /bin/sh /var/www/html/lucasmarques73/docker/entrypoint.sh
