@@ -23,6 +23,7 @@ intro = "Desenvolvedor Web"
 description = "Desenvolvedor Web com foco nas linguagens Go e PHP"
 authorimage = "me.jpg"
 dateformat = "Jan 2, 2006"
+errormessage = "Desculpa! Essa página não existe. Pode ter sido removido ou movido para uma nova seção no site."
 
 ## Site Meta Settings
 [params.meta]
@@ -38,20 +39,27 @@ email = "lucasmarques73@hotmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Lucas Marques." 
+copyright = "© 2019. Lucas Marques. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
 
 
 [[menu.main]]
-    name = "posts"
+    name = "home"
     weight = 100
+    url = "/"
+[[menu.main]]
+    name = "posts"
+    weight = 200
     url = "/posts/"
 [[menu.main]]
     name = "Projetos"
-    weight = 200
+    weight = 300
     url = "/projects/"
 [[menu.main]]
     name = "Sobre mim"
-    weight = 300
+    weight = 400
     url = "/about/"
