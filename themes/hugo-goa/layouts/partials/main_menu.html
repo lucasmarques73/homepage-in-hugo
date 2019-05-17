@@ -1,5 +1,9 @@
-<section id="main-menu-pane" class="row text-center main-menu">
-  {{ range sort .Site.Menus.main }}
-  <h4><a class="menu-item" href="{{ .URL }}">{{ .Name | lower }}</a></h4>
-  {{ end }}
-</section>
+<nav id="main-menu-pane" class="navbar main-menu">
+  <div class="container">
+    <ul class="nav navbar-nav">
+      {{ range sort .Site.Menus.main }}
+      <li><a class="menu-item" href="{{ .URL }}">{{ .Name | humanize }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>
