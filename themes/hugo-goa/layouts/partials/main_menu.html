@@ -1,6 +1,6 @@
 <nav id="main-menu-pane" class="navbar main-menu">
   <div class="container">
-    <ul class="nav navbar-nav">
+    <ul class="nav">
       {{ range sort .Site.Menus.main }}
       <li><a class="menu-item" href="{{ .URL }}">{{ .Name | humanize }}</a></li>
       {{ end }}
