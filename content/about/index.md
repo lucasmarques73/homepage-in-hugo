@@ -17,3 +17,5 @@ draft: false
     * PHP (Laravel, Symfony e projetos pessoais sem framework)
     * NodeJS (Express)
     * Golang
+
+[Currículo online](https://lucasmarques73.github.io/resume/)
