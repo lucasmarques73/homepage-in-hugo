@@ -18,4 +18,4 @@ draft: false
     * NodeJS (Express)
     * Golang
 
- ## [Currículo online](https://lucasmarques73.github.io/resume/)
+### [Currículo online](https://lucasmarques73.github.io/resume/)
