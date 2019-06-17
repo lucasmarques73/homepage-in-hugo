@@ -47,14 +47,14 @@ socialmarkup = true
     name = "home"
     weight = 100
     url = "/"
-[[menu.main]]
-    name = "posts"
-    weight = 200
-    url = "/posts/"
-[[menu.main]]
-    name = "Projetos"
-    weight = 300
-    url = "/projects/"
+# [[menu.main]]
+#     name = "posts"
+#     weight = 200
+#     url = "/posts/"
+# [[menu.main]]
+#     name = "Projetos"
+#     weight = 300
+#     url = "/projects/"
 [[menu.main]]
     name = "Sobre mim"
     weight = 400
