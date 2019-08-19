@@ -6,7 +6,7 @@ tags: ["about"]
 draft: false
 ---
 
-* Desenvolvedor Web desde 2015, já trabalhou como instrutor PHP na [4Linux](https://www.4linux.com.br/) ministrando os cursos da formação PHP e atualmente trabalhando como Engenheiro de Software na [RedVentures Brasil](https://www.redventures.com/)
+* Desenvolvedor Web desde 2015, já trabalhou como instrutor PHP.
 * Partipou de projetos em PHP, NodeJS e Golang, no desenvolvimento de APIs, Lambda Functions e integração com APIs de parceiros.
 * Tecnologias utilizadas
     * GIT
